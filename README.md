@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)]
+[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://danielzion.io)
 <h1 align="center">Hi 👋, I'm Olaniyan Daniel Olusegun</h1>
 <h3 align="center">A System Engineer who specializes in Industrial IoT and Automation. I am also a Fullstack Software Engineer who is passionate about bridging the gap between Engineering and I.T solutions. I would love to combine my passion for Engineering coupled with my software development skills to continue building innovative products for people.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
